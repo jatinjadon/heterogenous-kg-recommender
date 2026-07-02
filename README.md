@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jatinjadon/heterogenous-kg-recommender/blob/main/GATv2_recommendation_model.ipynb)
 
-Note on Project Structure: This repository is maintained as an exploratory research notebook to demonstrate the mathematical and algorithmic implementation of GATv2. For examples of my modular, production-ready systems architecture, please see my C++ Interpreter project.
+**Note on Project Structure**: This repository is maintained as an exploratory research notebook to demonstrate the mathematical and algorithmic implementation of GATv2. For examples of my modular, production-ready systems architecture, please see my C++ Interpreter project.
 
 ## 📌 Overview
 This repository contains an end-to-end recommendation engine built using **Heterogeneous Graph Neural Networks (GNNs)**. By modeling users, movies, actors, and genres as a complex Knowledge Graph, this system leverages a Multi-Head Graph Attention Network (GATv2) to perform highly accurate link prediction. 
