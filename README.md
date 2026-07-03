@@ -36,8 +36,8 @@ The notebook's initial execution cell automates the entire ETL pipeline, fetchin
 
 ## 📈 Baseline Results
 Under the current deterministic seed, the GATv2 model achieves the following metrics on the test split:
-1. **Link Prediction (ROC-AUC):** ~93.9%.
-2. **Ranking (HitRate@10):** ~52.3%.
+1. **Link Prediction (ROC-AUC):** ~93.11%.
+2. **Ranking (HitRate@10):** ~48.0%.
 
 ## 💻 How to Run (One-Click Deploy)
 You do not need to manually download any CSVs or configure a local GPU environment to test this engine. 
